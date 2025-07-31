@@ -13,17 +13,7 @@ This project presents a comparative study between two transformer-based deep lea
   - `AD` (Alzheimer's Disease)
   - `CN` (Cognitively Normal)
   - `MCI` (Mild Cognitive Impairment)
-- **Directory Structure:**
-adni/
-├── AD/ # Alzheimer's Disease images
-├── CN/ # Cognitively Normal images
-└── MCI/ # Mild Cognitive Impairment images
 
-yaml
-Copy
-Edit
-
----
 
 ## 🧠 Model Architectures
 

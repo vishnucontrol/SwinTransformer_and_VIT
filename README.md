@@ -54,12 +54,14 @@ Run each script to train and evaluate Swin and ViT models.
 Evaluation metrics and confusion matrix will be printed and plotted.
 
 📊 Results
-Metric	Swin Transformer	Vision Transformer
-Validation Accuracy	77.01%	95.54%
-Test Accuracy	80.12%	92.08%
-Cohen's Kappa	0.63	0.86
-Log Loss	0.7557	0.4512 (approx)
-Macro F1-Score	0.669	0.955
+
+| **Metric**            | **Swin Transformer** | **Vision Transformer (ViT)** |
+|-----------------------|----------------------|-------------------------------|
+| Validation Accuracy   | 77.01%               | **95.54%**                    |
+| Test Accuracy         | 80.12%               | **92.08%**                    |
+| Cohen's Kappa         | 0.63                 | **0.86**                      |
+| Log Loss              | 0.7557               | **~0.45**                     |
+| Macro F1-Score        | 0.669                | **0.955**                     |
 
 ✅ ViT outperforms Swin Transformer across all evaluation metrics, particularly in precision, recall, and F1-score.
 

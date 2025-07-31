@@ -14,10 +14,10 @@ This project presents a comparative study between two transformer-based deep lea
   - `CN` (Cognitively Normal)
   - `MCI` (Mild Cognitive Impairment)
 - **Directory Structure:**
-root_directory/
-├── AD/
-├── CN/
-└── MCI/
+adni/
+├── AD/ # Alzheimer's Disease images
+├── CN/ # Cognitively Normal images
+└── MCI/ # Mild Cognitive Impairment images
 
 yaml
 Copy

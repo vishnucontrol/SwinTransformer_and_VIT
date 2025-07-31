@@ -43,13 +43,6 @@ A patch-based transformer architecture with multi-head self-attention and positi
 - 8 Transformer blocks with attention + MLP layers
 - Flattened transformer output passed to dense classifier
 
----
-
-## ⚙️ Setup
-
-```bash
-pip install tensorflow numpy scikit-learn matplotlib seaborn
-Note: Code is compatible with Google Colab and uses tf.keras.
 
 🚀 How to Run
 Prepare the dataset as described above.
